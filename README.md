@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Tecnologías
-- **Lenguajes:** Java, C/C++, Python, JavaScript (Node.js), SQL  
+- **Lenguajes:** Java, C, Python, JavaScript (Node.js), SQL  
 - **Frameworks y herramientas:** Hibernate, Maven, Git, Docker, Grafana , Vue
 - **Paralelismo y rendimiento:** OpenMP, CUDA  
 - **Sistemas operativos:** Linux, Windows  
