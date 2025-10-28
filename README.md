@@ -44,7 +44,7 @@ Implementación de prácticas en CUDA: producto escalar, transposición y multip
 
 ## 📫 Contacto
 - 📧 alonsoulloa.marcos@gmail.com  
-- 💼 [LinkedIn](enlace)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcosalonso-dev/)  
 - 🖥️ [Portfolio personal (opcional)](enlace)  
 
 ---
