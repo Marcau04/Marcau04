@@ -18,9 +18,9 @@
 
 ## 📂 Proyectos Destacados
 
-### 🔹 [Analizador UML con ANTLR4](enlace-al-repo)
-Parser para modelos UML con validación de expresiones OCL. Generación de código en Java.  
-**Tecnologías:** Java, ANTLR4  
+### 🔹 [Monitor de Sistema y Persistencia de Métricas](https://github.com/Marcau04/System-Monitor-Logger-Python-MySQL)
+Desarrollado en Python, este logger recolecta y persiste métricas de rendimiento del sistema (CPU, red, memoria, disco) en una base de datos MySQL. Utiliza concurrencia (threading) para la ejecución programada de comandos nativos y la inserción de datos. 
+**Tecnologías:** Python, MySQL, threading, psutil.
 
 ---
 
@@ -39,6 +39,12 @@ Proyecto en Java que implementa el algoritmo de la mochila para maximizar el api
 ### 🔹 [Algoritmos de Conectividad con Disjoint Set](https://github.com/Marcau04/lightning-simulation-disjointset)
 Implementación de la estructura de datos Disjoint Set Union (DSU) con optimizaciones (Path Compression) para simular y calcular la conectividad de rayos entre paneles conductores.<br>
 **Tecnologías:** Java, Algoritmos de Grafos, Estructuras de Datos Avanzadas.  
+
+---
+
+### 🔹 [Analizador Léxico y Sintáctico (UML con OCL)](https://github.com/Marcau04/uml-ocl-parser)
+Parser en Java para modelos UML, incluyendo validación de expresiones OCL. Demostración de algoritmos de generación de código y manejo de gramáticas formales.<br>
+**Tecnologías:** Java, ANTLR4, OCL. 
 
 ---
 
