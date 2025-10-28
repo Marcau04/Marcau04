@@ -36,9 +36,9 @@ Proyecto en Java que implementa el algoritmo de la mochila para maximizar el api
 
 ---
 
-### 🔹 [CUDA – Programación paralela](enlace-al-repo)
-Implementación de prácticas en CUDA: producto escalar, transposición y multiplicación optimizada con memoria compartida.  
-**Tecnologías:** CUDA, C++  
+### 🔹 [Algoritmos de Conectividad con Disjoint Set](https://github.com/Marcau04/lightning-simulation-disjointset)
+Implementación de la estructura de datos Disjoint Set Union (DSU) con optimizaciones (Path Compression) para simular y calcular la conectividad de rayos entre paneles conductores.
+**Tecnologías:** Java, Algoritmos de Grafos, Estructuras de Datos Avanzadas.  
 
 ---
 
