@@ -9,9 +9,10 @@
 
 ## 🛠️ Tecnologías
 - **Lenguajes:** Java, C, Python, JavaScript (Node.js), SQL  
-- **Frameworks y herramientas:** Hibernate, Maven, Git, Docker, Grafana , Vue
-- **Paralelismo y rendimiento:** OpenMP, CUDA  
-- **Sistemas operativos:** Linux, Windows  
+- **Frameworks y herramientas:** FastAPI (aprendizaje en curso), Hibernate, Maven, Git, Docker, Vue
+- **Bases de datos:** MySQL, PostgreSQL (diseño de esquemas y consultas; nivel básico-intermedio)
+- **Otros:** UML, Grafana
+- **Paralelismo y rendimiento:** OpenMP, CUDA
 
 ---
 
