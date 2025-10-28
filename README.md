@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Marcau
 
-🎓 Estudiante de Ingeniería Informática en la universidad de Valladolid 
+🎓 Estudiante de Ingeniería Informática en la universidad de Valladolid <br>
 📌 Con formación en **desarrollo de sistemas web**, **análisis y rendimiento de software**, **diseño y optimización de algoritmos** y **modelado y arquitectura de sistemas (UML)**  
 💻 Interesado en combinar el desarrollo práctico con el análisis de eficiencia para crear soluciones escalables y de calidad  
 🚀 Actualmente en búsqueda de **prácticas** para aplicar mis conocimientos y seguir creciendo en un entorno profesional  
