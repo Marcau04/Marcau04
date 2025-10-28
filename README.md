@@ -8,11 +8,12 @@
 ---
 
 ## 🛠️ Tecnologías
-- **Lenguajes:** Java, C, Python, JavaScript (Node.js), SQL  
-- **Frameworks y herramientas:** FastAPI (aprendizaje en curso), Hibernate, Maven, Git, Docker, Vue
+- **Lenguajes Clave:** Java, C, Python, JavaScript (Node.js), SQL
+- **Backend & ORM:** FastAPI (aprendizaje en curso), Hibernate
+- **Frontend & Web:** HTML, CSS, Vue.js
+- **DevOps & Control:** Docker, Git, Maven, Grafana
 - **Bases de datos:** MySQL, PostgreSQL (diseño de esquemas y consultas; nivel básico-intermedio)
-- **Otros:** UML, Grafana
-- **Paralelismo y rendimiento:** OpenMP, CUDA
+- **Modelado & Otros:** UML
 
 ---
 
