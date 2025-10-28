@@ -30,8 +30,8 @@ Aplicación web desarrollada con Vue.js (Frontend) y FastAPI/PostgreSQL (Backend
 
 ---
 
-### 🔹 [Optimización de contenedores](enlace-al-repo)
-Algoritmo en Java para maximizar el apilamiento de contenedores bajo restricciones de peso y capacidad.  
+### 🔹 [Optimización de contenedores](https://github.com/Marcau04/java-container-stacking)
+Proyecto en Java que implementa el algoritmo de la mochila para maximizar el apilamiento de contenedores bajo restricciones de peso y capacidad.  
 **Tecnologías:** Java  
 
 ---
