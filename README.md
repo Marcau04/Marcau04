@@ -18,19 +18,18 @@
 
 ## 📂 Proyectos Destacados
 
+### 🔹 [Aplicación web fitness](https://github.com/Marcau04/FitCommune-Web)
+Aplicación web desarrollada con Vue.js (Frontend) y FastAPI/PostgreSQL (Backend), incluyendo autenticación por tokens y despliegue arquitectónico con Docker. 
+**Tecnologías:** Vue, Axios, FastAPI, PostgreSQL, Docker.  
+
+---
 ### 🔹 [Monitor de Sistema y Persistencia de Métricas](https://github.com/Marcau04/System-Monitor-Logger-Python-MySQL)
 Desarrollado en Python, este logger recolecta y persiste métricas de rendimiento del sistema (CPU, red, memoria, disco) en una base de datos MySQL. Utiliza concurrencia (threading) para la ejecución programada de comandos nativos y la inserción de datos. 
 **Tecnologías:** Python, MySQL, threading, psutil.
 
 ---
 
-### 🔹 [Aplicación web fitness](https://github.com/Marcau04/FitCommune-Web)
-Aplicación web desarrollada con Vue.js (Frontend) y FastAPI/PostgreSQL (Backend), incluyendo autenticación por tokens y despliegue arquitectónico con Docker. 
-**Tecnologías:** Vue, Axios, FastAPI, PostgreSQL, Docker.  
-
----
-
-### 🔹 [Optimización de contenedores](https://github.com/Marcau04/java-container-stacking)
+### 🔹 [Algoritmo Dinámico/Knapsack](https://github.com/Marcau04/java-container-stacking)
 Proyecto en Java que implementa el algoritmo de la mochila para maximizar el apilamiento de contenedores bajo restricciones de peso y capacidad.  
 **Tecnologías:** Java  
 
