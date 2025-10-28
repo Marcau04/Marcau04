@@ -48,6 +48,12 @@ Parser en Java para modelos UML, incluyendo validación de expresiones OCL. Demo
 
 ---
 
+### 🔹 [Diseño y Modelado de Base de Datos Relacional](https://github.com/Marcau04/malaga-municipal-db)
+Diseño e implementación de la Base de Datos (PostgreSQL) para la gestión de establecimientos del Plan Municipal de Málaga. Incluye el Modelo Entidad-Relación (ER) y scripts SQL completos para la creación de tablas, restricciones y funciones.
+**Tecnologías:** PostgreSQL, SQL, Modelo Entidad-Relación (ER). 
+
+---
+
 ## 📫 Contacto
 - 📧 alonsoulloa.marcos@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcosalonso-dev/)  
