@@ -24,9 +24,9 @@ Parser para modelos UML con validación de expresiones OCL. Generación de códi
 
 ---
 
-### 🔹 [Aplicación web fitness](enlace-al-repo)
-Web desarrollada con Vue + Axios y backend. Incluye login, gestión de rutinas/dietas y sistema de comentarios.  
-**Tecnologías:** Vue, Axios, Node.js, SQL  
+### 🔹 [Aplicación web fitness](https://github.com/Marcau04/FitCommune-Web)
+Aplicación web desarrollada con Vue.js (Frontend) y FastAPI/PostgreSQL (Backend), incluyendo autenticación por tokens y despliegue arquitectónico con Docker. 
+**Tecnologías:** Vue, Axios, FastAPI, PostgreSQL, Docker.  
 
 ---
 
