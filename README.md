@@ -8,6 +8,7 @@
 ---
 
 ## 🛠️ Tecnologías
+Estas son algunas de las tecnologías con las que he trabajado a lo largo de mi formación académica:
 - **Lenguajes Clave:** Java, C, Python, JavaScript (Node.js), SQL
 - **Backend & ORM:** FastAPI (aprendizaje en curso), Hibernate
 - **Frontend & Web:** HTML, CSS, Vue.js
